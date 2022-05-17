@@ -17,7 +17,8 @@ Utilizando um framework Java Script 3D (WebGL, Three.js, etc). Faça um modelo d
 
 - "three.js": código solicitado na documentação do framework ThreeJS para utilização de suas classes, atributos e métodos;
 - "archive.js": código de criação do objeto com o logo rotacionando;
-- "CG.html": página HTML para apresentação do objetivo criado no arquivo "archive.js".
+- "CG.html": página HTML para apresentação do objetivo criado no arquivo "archive.js";
+- "Descritivo Atividade.doc": contempla o descritivo da atividade prática e printscreens relacionados à atividade, conforme solicitado no protocolo da atividade.
 
 <h2>Membros</h2>
 
