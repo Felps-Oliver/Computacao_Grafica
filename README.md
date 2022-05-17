@@ -1,4 +1,4 @@
-<h1>Computacao_Grafica</h1>
+<h1>Atividade Prática - Computação Gráfica</h1>
 
 Repositório contendo os arquivos relacionados à elaboração da atividade prática da disciplina de Computação Gráfica.
 
